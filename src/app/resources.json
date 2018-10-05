@@ -1,0 +1,16 @@
+{
+    "name": {
+        "tr": "Ad",
+        "en": "Name"
+    },
+    "cms": {
+        "customer": {
+            "tr": "Müşteri",
+            "en": "Customer",
+            "type": {
+                "tr": "Tip",
+                "en": "Type"
+            }
+        }
+    }
+}
